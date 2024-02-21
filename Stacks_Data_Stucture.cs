@@ -42,8 +42,6 @@ static void StackSort(Stack<int> s1)
             StackSort(s1);
             Console.WriteLine(s1.ToString());
 
-
-
             //Console.WriteLine(s1.ToString());
             //Console.WriteLine(s1.ToString());
             //Console.WriteLine(s1.ToString());
